@@ -7,6 +7,6 @@ We would like to discuss a little bit about:
 
 •      Is the Total cholesterol effect to increase the probability of susceptible CHD?
 
-•      What is the most features effect to susceptible to heart disease?
+•      Which is the most algorithm predict accurately?
 
 Where we have more than 4,000 observations of 15 features, was taken from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts.
