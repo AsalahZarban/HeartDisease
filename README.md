@@ -1,7 +1,7 @@
 # HeartDisease
 This project intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regression.
 
-We would like to disscuse a little bit about:
+We would like to discuss a little bit about:
 
 •      Whose is more susceptible to heart disease men or women?
 
