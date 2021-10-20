@@ -1,5 +1,5 @@
 # Comparative study of ML model to predict heart disease
-This project intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regression.
+This project intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regression. And find the most accuracy ML model for our data.
 
 We would like to discuss a little bit about:
 
